@@ -1,0 +1,162 @@
+@charset "utf-8";
+
+
+
+
+
+.wrapper {
+	
+	margin: 0 auto;
+	
+	
+}
+
+
+
+
+
+
+
+.last {
+	
+	margin-right: 0;
+	
+}
+
+a.learn_more {
+	
+	background: url(assets/learn_more_button.png) no-repeat top left;
+	float: left;
+	height: 36px;
+	margin: 0 20px 0 0;
+	width: 164px;
+	
+}
+
+a.learn_more:hover {
+	
+	background: url(assets/learn_more_button_hover.png) no-repeat top left;
+	
+}
+
+a.buy_it {
+	
+	background: url(assets/buy_it.png) no-repeat top left;
+	float: left;
+	height: 36px;
+	margin: 0 20px 0 0;
+	width: 164px;
+	
+}
+
+a.buy_it:hover {
+	
+	background: url(assets/buy_it_hover.png) no-repeat top left;
+	
+}
+
+#slider { float: left; position: relative; width: 100%; height: 40px; }
+
+
+
+
+		/*------------------------
+		--------------- LEFT ARROW
+		------------------------*/
+		
+		/* Sets position and main configs */
+		.slider_arrow_left {
+			
+			bottom: 10px;
+			cursor: pointer !important;
+			float: left;
+			height: 22px;
+			left: 10px;
+			position: absolute;
+			width: 22px;
+			z-index: 50 !important;
+			
+		}
+		
+		/* left arrow image */
+		.slider_arrow_left {
+			
+			background: url(images/left_arrow.png) no-repeat top left;
+			
+		}
+
+
+		/*------------------------
+		-------------- RIGHT ARROW
+		------------------------*/
+		
+		/* Sets position and main configs */
+		.slider_arrow_right {
+			
+			bottom: 10px;
+			cursor: pointer;
+			float: left;
+			height: 22px;
+			left: 37px;
+			position: absolute;
+			width: 22px;
+			z-index: 50;
+			
+		}
+		
+		/* Right arrow Background */
+		.slider_arrow_right {
+			
+			background: url(images/right_arrow.png) no-repeat top left;
+			
+		}
+
+
+
+
+	/*------------------------
+	---------------- SELECTORS
+	------------------------*/
+	
+	/* Sets configs for selectors containers : absolute positioned in relation to #slider */
+	.slider_selector, .slider_selector_dis {
+		
+		bottom: 3px;
+		list-style: none;
+		position: absolute;
+		right:35px;
+		width:217px;
+		z-index: 50;
+		
+	}
+	
+		/* Sets image of selectors */
+		.slider_selector li, .slider_selector_dis li {
+			
+			display: block !important;
+			background: url(images/slider_selector.png) no-repeat top left;
+			cursor: pointer;
+			margin: 3px!important;
+			height: 26px !important;
+			position: relative !important;
+			width: 26px !important;
+			float:right;
+			
+		}
+		
+		/* Sets the current selector */
+		.slider_selector li.current, .slider_selector_dis li.current {
+			
+			background: url(images/slider_selector_current.png) no-repeat top left;
+			
+		}
+	
+	/* Disables the selectors */
+	.slider_selector_dis li {
+		
+		cursor: default !important;
+		z-index: 50;
+		
+	}
+	
+	#container {  float: left; width: 100%; position: relative;  }

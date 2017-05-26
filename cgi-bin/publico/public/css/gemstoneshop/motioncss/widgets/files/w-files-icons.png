@@ -1,0 +1,672 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>GemstoneShop</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+<meta name="robots" content="all" />
+<meta name="keywords" content="GemstoneShop Network!" />
+<meta name="description" content="a GemstoneShop chega aos 5 continentes para revolucionar o mercado de vendas diretas através de um dos mais preciosos e promissores produtos, Pedras Preciosas e Jóias" />
+<link rel="stylesheet" type="text/css" media="all" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic">
+<link rel="stylesheet" type="text/css" media="all" href="http://fonts.googleapis.com/css?family=Noto+Sans:400,700">
+<link rel="stylesheet" type="text/css" media="all" href="css/motioncss.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/motioncss-widgets.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/font-awesome.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/rs-settings.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/rs-captions.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/magnific-popup.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/responsive.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/animation.css">
+<link rel="stylesheet" type="text/css" media="all" href="css/colors/color_0.css">
+<script type="text/javascript" src="js/modernizr.js"></script>
+<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="js/jquery.themepunch.plugins.min.js"></script>
+<script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="js/jquery.carousello.js"></script>
+<script type="text/javascript" src="js/jquery.flexslider.js"></script>
+<script type="text/javascript" src="js/jquery.isotope.js"></script>
+<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
+<script type="text/javascript" src="js/jquery.parallax.js"></script>
+<script type="text/javascript" src="js/jquery.simpleplaceholder.js"></script>
+<script type="text/javascript" src="js/jquery.smoothScroll.js"></script>
+<script type="text/javascript" src="js/jquery.horparallax.js"></script>
+<script type="text/javascript" src="js/plugins.js"></script>
+<script type="text/javascript" src="js/waypoints.min.js"></script>
+<script type="text/javascript" src="js/us.widgets.js"></script>
+ 
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "9a4539dd-ea96-47d2-a5dd-3a9af5a7cee5", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+ 
+</head>
+
+
+
+<body class="l-body">
+
+<!-- CANVAS -->
+<div class="l-canvas type_wide col_cont headerpos_fixed headertype_extended">
+  <div class="l-canvas-h"> 
+    
+    <!-- HEADER -->
+    <div class="l-header">
+      <div class="l-header-h">
+        <div class="l-subheader at_top">
+          <div class="l-subheader-h i-cf">
+            
+            <div class="w-lang layout_dropdown show_onclick has_title">
+							<div class="w-lang-h">
+								<div class="w-lang-list">
+									
+									<a class="w-lang-item lang_de" href="/en/home">
+										<span class="w-lang-item-icon"></span>
+										<span class="w-lang-item-title">English</span>
+									</a>
+									<a class="w-lang-item lang_en" href="/sp/home">
+										<span class="w-lang-item-icon"></span>
+										<span class="w-lang-item-title">Español</span>
+									</a>
+                                    <a class="w-lang-item lang_en" href="/home">
+										<span class="w-lang-item-icon"></span>
+										<span class="w-lang-item-title">Português</span>
+									</a>
+								</div>
+								<div class="w-lang-current">
+									<span class="w-lang-item">
+										<span class="w-lang-item-icon"></span>
+										<span class="w-lang-item-title">Idioma</span>
+									</span>
+								</div>
+							</div>
+						</div>
+                        
+                        
+            <div class="w-socials">
+              <div class="w-socials-h">
+                <div class="w-socials-list">
+                  <div class="w-socials-item facebook" style="padding-right:7px;">
+                    <div class="w-contacts-item">
+                     
+                       <span class="w-contacts-item-value"><i class="fa fa-key"></i> <a href="http://198.57.236.155/~soffce/publico/index.php/entrar/login/pt"> Login </a></span> 
+                       
+                       <span class="w-contacts-item-value"><i class="fa fa-user"></i> <a href="http://198.57.236.155/~soffce/publico/index.php/distribuidor/cadastro_lang/pt"> Cadastre-se </a></span> </div>
+  
+                     
+                  </div>
+                  
+                  
+                  <div class="w-socials-item facebook"> <a class="w-socials-item-link" target="_blank" href="https://www.facebook.com/gemstoneshopofficial"> <i class="fa fa-facebook"></i> </a>
+                    <div class="w-socials-item-popup">
+                      <div class="w-socials-item-popup-h"> <span class="w-socials-item-popup-text">Facebook</span> </div>
+                    </div>
+                  </div>
+                  <div class="w-socials-item twitter"> <a class="w-socials-item-link" target="_blank" href="https://twitter.com/GemstoneShopoff"> <i class="fa fa-twitter"></i> </a>
+                    <div class="w-socials-item-popup">
+                      <div class="w-socials-item-popup-h"> <span class="w-socials-item-popup-text">Twitter</span> </div>
+                    </div>
+                  </div>
+                  <div class="w-socials-item youtube"> <a class="w-socials-item-link" target="_blank" href="https://www.youtube.com/user/GemstoneShopOfficial"> <i class="fa fa-youtube"></i> </a>
+                    <div class="w-socials-item-popup">
+                      <div class="w-socials-item-popup-h"> <span class="w-socials-item-popup-text">You Tube</span> </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="l-subheader at_middle">
+          <div class="l-subheader-h i-cf"> 
+            
+            <!-- LOGO -->
+            <div class="w-logo">
+              <div class="w-logo-h"> <a class="w-logo-link" href="home"> <img class="w-logo-img" src="img/logoPT.png" alt="GemstoneShop"> <span class="w-logo-title"> <span class="w-logo-title-h">GemstoneShop</span> </span> </a> </div>
+            </div>
+            
+             
+            <nav class="w-nav layout_hor">
+              <div class="w-nav-control"> <i class="fa fa-bars"></i> </div>
+              <ul class="w-nav-list level_1">
+              
+                   <li class="w-nav-item level_1 has_sublevel"> <a class="w-nav-anchor level_1" href="empresa"> <span class="w-nav-icon"><i class="fa fa-home"></i></span> <span class="w-nav-title">Empresa</span> <span class="w-nav-arrow"></span> </a> 
+                   
+                   
+                   <ul class="w-nav-list level_2">
+										<li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="empresa">
+												<span class="w-nav-title">Quem Somos</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                        <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="missao">
+												<span class="w-nav-title">Missão & Visão</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+
+                                         <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="eventos">
+												<span class="w-nav-title">Eventos</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+									</ul> 
+                   
+                   </li>
+                   
+                   
+                    <li class="w-nav-item level_1 has_sublevel"> <a class="w-nav-anchor level_1" href="produtos-servicos"> <span class="w-nav-icon"><i class="fa fa-home"></i></span> <span class="w-nav-title">Produtos & Serviços</span> <span class="w-nav-arrow"></span> </a> 
+                    
+                    <ul class="w-nav-list level_2"> 
+                    
+                     <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="produtos-servicos">
+												<span class="w-nav-title">Nossos Produtos</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                         <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="plano">
+												<span class="w-nav-title">Plano de Compensação</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                        
+                                         <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="promocoes">
+												<span class="w-nav-title">Promoções</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                         <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="mercado">
+												<span class="w-nav-title">Mercado</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                        
+                    <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="oportunidade">
+												<span class="w-nav-title">Oportunidade</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                    
+                    </ul>
+                    
+                    
+                    
+                    
+                    </li>
+                
+                <li class="w-nav-item level_1 has_sublevel"> <a class="w-nav-anchor level_1" href="shop"> <span class="w-nav-icon"><i class="fa fa-home"></i></span> <span class="w-nav-title">Shop</span> <span class="w-nav-arrow"></span> </a> 
+                
+                <ul class="w-nav-list level_2">
+										<li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="http://gemminni.com" target="_blank">
+												<span class="w-nav-title">Gemminni.com</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                        <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="http://e-gemstone.com" target="_blank">
+												<span class="w-nav-title">e-Gemstone.com</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                             <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="http://e-walletshop.com" target="_blank">
+												<span class="w-nav-title">e-walletshop.com</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                    
+                                          
+                                        
+									</ul>
+                
+                </li>
+               
+                
+             
+                <li class="w-nav-item level_1 has_sublevel"> <a class="w-nav-anchor level_1" href="media"> <span class="w-nav-icon"><i class="fa fa-home"></i></span> <span class="w-nav-title">Mídia</span> <span class="w-nav-arrow"></span> </a> 
+                
+                 <ul class="w-nav-list level_2">
+										<li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="download">
+												<span class="w-nav-title">Apresentação</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="materiais">
+												<span class="w-nav-title">Material</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                        <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="videos">
+												<span class="w-nav-title">Videos</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                          <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="download">
+												<span class="w-nav-title">Downloads</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                         <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="webconferencia">
+												<span class="w-nav-title">Web Conferência</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                        <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="noticias">
+												<span class="w-nav-title">Últimas Notícias</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                  
+                  </ul>
+                
+                </li>
+                
+             
+                
+                <li class="w-nav-item level_1 has_sublevel"> <a class="w-nav-anchor level_1" href="suporte"> <span class="w-nav-icon"><i class="fa fa-home"></i></span> <span class="w-nav-title">Suporte</span> <span class="w-nav-arrow"></span> </a> 
+                
+                
+                <ul class="w-nav-list level_2">
+										<li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="/ticket/">
+												<span class="w-nav-title">Ticket</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="faqs">
+												<span class="w-nav-title">Perguntas Frequentes</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                        <li class="w-nav-item level_2">
+											<a class="w-nav-anchor level_2" href="contato">
+												<span class="w-nav-title">Contatos</span>
+                                                <span class="w-nav-arrow"></span>
+											</a>
+										</li>
+                                        
+                                          
+                  
+                  </ul>
+                
+                
+                </li>
+                
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /HEADER --> 
+    
+    <!-- Inicio Inclusão Páginas-->
+    
+     <!--	<link rel="stylesheet" href="popup/res/colorbox.css" />
+
+<script type="text/javascript" src="popup/res/jquery.colorbox-min.js"></script>
+<script type="text/javascript">  
+$(document).ready(function(){
+	setTimeout(function() {
+		$.fn.colorbox({ opacity:0.3, href:"/pg/popup.php", open:true});  
+	}, 500);
+});  
+</script>    -->
+<!-- MAIN -->
+
+<div class="l-main">
+  <div class="l-main-h">
+    <div class="l-submain full_width full_height">
+      <div class="l-submain-h g-html i-cf">
+        <div class="fullwidthbanner-container" style="background:#0d2231;">
+          <div class="fullwidthbanner home-slider">
+            <ul>
+              <li data-delay="7000" data-masterspeed="600" data-slotamount="7" data-transition="fade"> <img src="img/slide1.jpg" alt="" > </li>
+              <li data-delay="7000" data-masterspeed="600" data-slotamount="7" data-transition="random"> <img src="img/slide2.jpg" alt="" > </li>
+              <li data-delay="7000" data-masterspeed="600" data-slotamount="7" data-transition="random"> <img src="img/slide3.jpg" alt="" > </li>
+              <li data-delay="7000" data-masterspeed="600" data-slotamount="7" data-transition="random"> <img src="img/slide4.jpg" alt=""> </li>
+              <li data-delay="7000" data-masterspeed="600" data-slotamount="7" data-transition="random"> <img src="img/slide5.jpg" alt="" > </li>
+              <li data-delay="8000" data-masterspeed="600" data-slotamount="7" data-transition="random"> <img src="img/slide6.jpg" alt="" > </li>
+            </ul>
+            <div class="tp-bannertimer"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="l-submain" style="background: url(img/contbg3.jpg) top center no-repeat; ">
+      <div class="l-submain-h g-html i-cf">
+        <h2 class="align_center">GemstoneShop - Uma Preciosa Oportunidade de Empreendedorismo</h2>
+        <div class="g-cols">
+          <div class="one-third align_center" > <img src="../../img/step1.png" alt="Empreendedor">
+            <h3><i class="fa fa-check"></i> Seja um Empreendedor</h3>
+            <p>Seja dono de um negócio próprio no mercado valioso de jóias e pedras preciosas. <br />
+              (Loja virtual, Produtos, e Ferramentas de Marketing).</p>
+          </div>
+          <div class="one-third align_center" > <img src="../../img/step2.png" alt="Ferramentas">
+            <h3><i class="fa fa-check"></i> Ferramentas Fantásticas</h3>
+            <p>Seja proprietário de uma Agencia virtual composta de todas as ferramentas necessárias para desenvolver seu próprio negócio com sucesso. </p>
+          </div>
+          <div class="one-third align_center" > <img src="../../img/step3.png" alt="Lucratividaded">
+            <h3><i class="fa fa-check"></i> Alta Lucratividade</h3>
+            <p>Desfrute das variadas formas de ganhos proporcionadas pelo sistema revolucionador da GemstoneShop. </p>
+          </div>
+        </div>
+        <div class="g-hr"> <span class="g-hr-h"> <i class="fa fa-chevron-down"></i> </span> </div>
+        <div class="g-cols">
+          <div class="one-fourth">
+            <div class="w-iconbox iconpos_top with_circle">
+              <div class="w-iconbox-h"> <a class="w-iconbox-link" href="shop">
+                <div class="w-iconbox-icon"> <i class="fa fa-tag"></i> </div>
+                <h4 class="w-iconbox-title">Shop</h4>
+                </a>
+                <div class="w-iconbox-text">
+                  <p style="text-align:left;">A GemstoneShop, além de oferecer produtos de alta qualidade para clientes, também oferece  uma extraordinária oportunidade de negócios  para profissionais de venda direta, oferecendo ótimos planos de compensação e premiações.</p>
+                  <!--  <a href="download"><p align="right">SAIBA +</p></a> --> 
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="one-fourth">
+            <div class="w-iconbox iconpos_top with_circle">
+              <div class="w-iconbox-h"> <a class="w-iconbox-link" href="oportunidade">
+                <div class="w-iconbox-icon"> <i class="fa fa-money"></i> </div>
+                <h4 class="w-iconbox-title">Oportunidade</h4>
+                </a>
+                <div class="w-iconbox-text">
+                  <p style="text-align:left; ">Com mais de 100 anos de existência, a venda direta é um sistema de comercialização de bens de consumo ou serviços sustentável e seguro.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="one-fourth">
+            <div class="w-iconbox iconpos_top with_circle">
+              <div class="w-iconbox-h"> <a class="w-iconbox-link" href="mercado">
+                <div class="w-iconbox-icon"> <i class="fa fa-bars"></i> </div>
+                <h4 class="w-iconbox-title">Mercado</h4>
+                </a>
+                <div class="w-iconbox-text">
+                  <p style="text-align:left;">A GemstoneShop oferece uma incrível oportunidade para seus clientes que é a venda direta.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="one-fourth">
+            <div class="w-iconbox iconpos_top with_circle">
+              <div class="w-iconbox-h"> <a class="w-iconbox-link" href="empresa">
+                <div class="w-iconbox-icon"> <i class="fa fa-building"></i> </div>
+                <h4 class="w-iconbox-title">Empresa</h4>
+                </a>
+                <div class="w-iconbox-text">
+                  <p style="text-align:left; height:120px">Nosso Grupo Empresarial há três anos iniciou um processo de pesquisa e sondagem do mercado  internacional de Pedras Preciosas, Jóias e Marketing Digital.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="g-hr type_invisible"></div>
+        <div class="w-actionbox controls_aside color_primary" style="background:#4e0000;">
+          <div class="w-actionbox-h">
+            <div class="w-actionbox-text">
+              <h3>Faça seu cadastro agora mesmo!</h3>
+              <p><strong>Aproveite esta oportunidade de negócio que pode muda seu estilo de vida!</strong></p>
+            </div>
+            <div class="w-actionbox-controls"> <a class="w-actionbox-button g-btn type_contrast outlined size_big" href="http://198.57.236.155/~soffce/publico/index.php/distribuidor/cadastro_lang/pt" target="_blank"><span><i class="fa fa-star-o"></i> Iniciar Cadastro</span></a> </div>
+          </div>
+        </div>
+        <div class="g-hr type_invisible"></div>
+        <div class="g-cols">
+          <div class="one-half">
+            <div class="w-tabs layout_accordion">
+              <div class="w-tabs-h">
+                <div class="w-tabs-section with_icon active">
+                  <div class="w-tabs-section-title"> <span class="w-tabs-section-title-icon fa fa-arrow-circle-o-right"></span> <span class="w-tabs-section-title-text">Plano de Compensação</span> <span class="w-tabs-section-title-control"><i class="fa fa-angle-down"></i></span> </div>
+                  <div class="w-tabs-section-content">
+                    <div class="w-tabs-section-content-h align_center">
+                      <p> <a href="plano"><img class="w-portfolio-item-image-first" src="img/acord1.jpg" alt="Plano de Compensação"></a> </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="w-tabs-section with_icon">
+                  <div class="w-tabs-section-title"> <span class="w-tabs-section-title-icon fa fa-arrow-circle-o-right"></span> <span class="w-tabs-section-title-text">Produtos e Serviços de Qualidade</span> <span class="w-tabs-section-title-control"><i class="fa fa-angle-down"></i></span> </div>
+                  <div class="w-tabs-section-content">
+                    <div class="w-tabs-section-content-h align_center">
+                      <p> <a href="produtos-servicos"><img class="w-portfolio-item-image-first" src="img/acord2.jpg" alt="Produtos de Qualidade"></a> </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="w-tabs-section with_icon">
+                  <div class="w-tabs-section-title"> <span class="w-tabs-section-title-icon fa fa-arrow-circle-o-right"></span> <span class="w-tabs-section-title-text">Rede de Proteção ao Empreendedor</span> <span class="w-tabs-section-title-control"><i class="fa fa-angle-down"></i></span> </div>
+                  <div class="w-tabs-section-content">
+                    <div class="w-tabs-section-content-h align_center">
+                      <p> <a href="programa"><img class="w-portfolio-item-image-first" src="img/acord3.jpg" alt="Proteção ao Empreendedor"></a> </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="w-tabs-section with_icon">
+                  <div class="w-tabs-section-title"> <span class="w-tabs-section-title-icon fa fa-arrow-circle-o-right"></span> <span class="w-tabs-section-title-text">Perguntas e Respostas Frequentes</span> <span class="w-tabs-section-title-control"><i class="fa fa-angle-down"></i></span> </div>
+                  <div class="w-tabs-section-content">
+                    <div class="w-tabs-section-content-h align_center">
+                      <p> <a href="faqs"><img class="w-portfolio-item-image-first" src="img/acord4.jpg" alt="Perguntas e Respostas Frequentes"></a> </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="w-tabs-section with_icon">
+                  <div class="w-tabs-section-title"> <span class="w-tabs-section-title-icon fa fa-arrow-circle-o-right"></span> <span class="w-tabs-section-title-text">Apresentação em PDF e PowerPoint</span> <span class="w-tabs-section-title-control"><i class="fa fa-angle-down"></i></span> </div>
+                  <div class="w-tabs-section-content">
+                    <div class="w-tabs-section-content-h align_center">
+                      <p> <a href="download"><img class="w-portfolio-item-image-first" src="img/acord5.jpg" alt="Bônus de Liderança"></a> </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="one-half">
+            <div class="w-video ratio_16-9">
+              <div class="w-video-h">
+                <iframe width="480" height="270" src="//www.youtube.com/embed/HiUIgI9pCcc" frameborder="0" allowfullscreen></iframe>
+              </div>
+            </div>
+            <div class="g-hr type_invisible"></div>
+            <p class="align_center" style="text-align:justify">A GemstoneShop há três anos iniciou um processo de pesquisa e sondagem do mercado internacional. Com sede legal e jurídica no Panamá a GemstoneShop chega aos 5 continentes para revolucionar o mercado de vendas diretas através de um dos mais preciosos e promissores produtos, Pedras Preciosas e Jóias da nossa Gemstone Collection, em um  dos setores que mais crescem e acumulam indicadores de alta rentabilidade, segurança e sustentabilidade e com tudo isso, também iremos mudar o mercado de vendas diretas desse setor através do sistema de MLM mundial.</p>
+            <div class="g-hr type_invisible"></div>
+            <p class="align_center"> <a class="g-btn type_primary" href="empresa"><span><i class="fa fa-chevron-right"></i>LEIA MAIS</span></a> </p>
+          </div>
+        </div>
+        <div class="g-hr"> <span class="g-hr-h"> <i class="fa fa-chevron-down"></i> </span> </div>
+        
+        
+        <div class="w-clients type_carousel columns_5">
+							<div class="w-clients-h">
+								<div class="w-clients-list">
+									<div class="w-clients-list-h">
+										<a class="w-clients-item" href="http://www.gemstonemineradora.com" target="_blank">
+											<img src="img/icon_01.jpg" alt="gemstonemineradora.com">
+										</a>
+										<a class="w-clients-item" href="http://gemminni.com" target="_blank">
+											<img src="img/icon_02.jpg" alt="Gemminni.com">
+										</a>
+										<a class="w-clients-item" href="http://e-gemstone.com" target="_blank">
+											<img src="img/icon_03.jpg" alt="e-gemstone.com">
+										</a>
+										<a class="w-clients-item" href="http://www.clickfriend.com" target="_blank">
+											<img src="img/icon_04.jpg" alt="clickfriend.com">
+										</a>
+										<a class="w-clients-item" href="http://www.e-walletpay.com" target="_blank">
+											<img src="img/icon_05.jpg" alt="e-walletpay.com">
+										</a>
+                                        
+                                       <a class="w-clients-item" href="http://www.e-walletshop.com" target="_blank">
+											<img src="img/icon_06.jpg" alt="e-walletshop.com">
+										</a>
+										 
+									</div>
+								</div>
+								<a class="w-clients-nav to_prev disabled" href="javascript:void(0)" title="Show previous"></a>
+								<a class="w-clients-nav to_next" href="javascript:void(0)" title="Show next"></a>
+							</div>
+						</div>
+        
+        
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /MAIN --> 
+    
+    <!-- Fim inclusão Páginas -->
+     
+  </div>
+</div>
+</div>
+<!-- /CANVAS --> 
+
+<!-- FOOTER -->
+<div class="l-footer">
+  <div class="l-footer-h"> 
+    
+    <!-- subfooter: top -->
+    <div class="l-subfooter at_top">
+      <div class="l-subfooter-h g-cols">
+        <div class="one-third">
+          <div class="widget">
+            <h4>Institucional</h4>
+            <p><a href="empresa">Empresa/Grupo Empresarial Multinacional</a></p>
+            <p><a href="download">Downloads</a></p>
+            <p><a href="download">Apresentação</a></p>
+            <p><a href="webconferencia">Web Conferência</a></p>
+            <p><a href="faqs">Perguntas Frequentes</a></p>
+            <p><a href="normas-procedimentos">Normas e Procedimentos</a></p>
+             
+            
+          </div>
+        </div>
+        <div class="one-third">
+          <div class="widget">
+            <h4>Ajuda e Suporte</h4>
+            <div class="w-bloglist date_atbottom">
+              <div class="w-bloglist-list">
+                <div class="w-bloglist-entry"> <a class="w-bloglist-entry-link" href="contato">Contate-nos</a> <br> 
+                <a class="w-bloglist-entry-link" href="http://www.GemstoneShop.com/ticket/">Suporte / Tickets</a> </div>
+              </div>
+            </div>
+            <h4>Formas de Pagamentos e Recebimentos</h4>
+            <div class="w-bloglist date_atbottom">
+              <div class="w-bloglist-list">
+                <div class="w-bloglist-entry">Pay In - Pay Out Proprietary Systems<br>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="one-third">
+          <div class="widget">
+            <h4>Contatos</h4>
+            <div class="w-contacts">
+              <div class="w-contacts-h">
+                <div class="w-contacts-list">
+                  <div class="w-contacts-item"> <i class="fa fa-envelope-o"></i> <span class="w-contacts-item-value"><a href="mailto:cs@GemstoneShop.com">cs@GemstoneShop.com</a></span> </div>
+                </div>
+              </div>
+            </div>
+           <br />
+             <h4>Denuncias</h4>
+            <div class="w-contacts">
+              <div class="w-contacts-h">
+                <div class="w-contacts-list">
+                  <div class="w-contacts-item"> <i class="fa fa-envelope-o"></i> <span class="w-contacts-item-value"><a href="mailto:denuncia@GemstoneShop.com">denuncia@GemstoneShop.com</a></span> </div>
+                  
+                </div>
+              </div>
+            </div>
+            
+          </div>
+          <div class="widget">
+            <div class="w-socials size_normal">
+              <div class="w-socials-h">
+                <div class="w-socials-list">
+                  <div class="w-socials-item facebook"> <a class="w-socials-item-link" target="_blank" href="https://www.facebook.com/gemstoneshopofficial"> <i class="fa fa-facebook"></i> </a>
+                    <div class="w-socials-item-popup">
+                      <div class="w-socials-item-popup-h"> <span class="w-socials-item-popup-text">Facebook</span> </div>
+                    </div>
+                  </div>
+                  <div class="w-socials-item twitter"> <a class="w-socials-item-link" target="_blank" href="https://twitter.com/GemstoneShopoff"> <i class="fa fa-twitter"></i> </a>
+                    <div class="w-socials-item-popup">
+                      <div class="w-socials-item-popup-h"> <span class="w-socials-item-popup-text">Twitter</span> </div>
+                    </div>
+                  </div>
+                  <div class="w-socials-item youtube"> <a class="w-socials-item-link" target="_blank" href="https://www.youtube.com/user/GemstoneShopOfficial"> <i class="fa fa-youtube"></i> </a>
+                    <div class="w-socials-item-popup">
+                      <div class="w-socials-item-popup-h"> <span class="w-socials-item-popup-text">You Tube</span> </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+       
+      </div>
+    </div>
+    
+    
+    <div class="l-subfooter at_bottom">
+      <div class="l-subfooter-h i-cf">
+        <p align="center">Copyright © 2014 - GemstoneShop - EWC Global (Gemstone Mineradora)</p>
+        
+         
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /FOOTER --> 
+
+<a class="w-toplink" href="#"><i class="fa fa-angle-up"></i></a> 
+<script type="text/javascript">
+	window.color_scheme = "color_0";
+	window.body_layout = "wide";
+</script>
+</div>
+ 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50099703-1', 'GemstoneShop.com');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

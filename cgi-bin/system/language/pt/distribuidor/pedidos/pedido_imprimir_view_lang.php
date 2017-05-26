@@ -1,0 +1,35 @@
+<?php
+$lang['label_pedido_numero'] = "PEDIDO Nº";
+$lang['label_numero_pedido'] = "Nº Pedido";
+$lang['label_entrega'] = "Entrega";
+$lang['label_codigo_rastreio'] = "Código de Rastreio";
+$lang['label_form_pg'] = "Forma Pag.";
+$lang['label_situacao'] = "Situação";
+$lang['label_detalhe_pagamento'] = "Detalhes do Pagamento";
+$lang['label_pagar_com_bonus'] = "Paga com Bônus Por";
+$lang['label_data_hora'] = "Data Hora";
+$lang['label_retirar_produto_no_cd'] = "Retirar produto no CD";
+$lang['label_codigo'] = "Código";
+$lang['label_produto'] = "Produto";
+$lang['label_quantidade'] = "Qtd";
+$lang['label_pt_unitaria'] = "Pt. unitário";
+$lang['label_total_pontos'] = "Total pontos";
+$lang['label_vl_unitario'] = "Vl. unitário";
+$lang['label_total'] = "Total";
+$lang['label_total_pontos'] = "Total Pontos";
+$lang['label_total_produtos'] = "Total Produtos";
+$lang['label_frete'] = "Frete";
+$lang['label_total_compras'] = "Total compra";
+$lang['label_cep'] = "CEP";
+$lang['label_complemento'] = "Complemento:";
+$lang['label_data'] = "Data";
+$lang['label_fone'] = "Fone";
+$lang['label_token'] = "Código do produto";
+$lang['___________________'] = "___________________";
+$lang['___________________'] = "___________________";
+$lang['___________________'] = "___________________";
+$lang['___________________'] = "___________________";
+$lang['___________________'] = "___________________";
+$lang['___________________'] = "___________________";
+$lang['___________________'] = "___________________";
+?>

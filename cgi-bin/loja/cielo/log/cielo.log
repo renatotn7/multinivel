@@ -1,0 +1,711 @@
+***********************************************
+2012-11-23 19:46:13:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="fc1b76c28ce09a1c7197dec5cc0ed7bf" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>68</numero>
+      <valor>21240</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-23T19:46:13</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=68</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-23 19:46:13:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="fc1b76c28ce09a1c7197dec5cc0ed7bf" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10401172760000322002</tid>
+  <dados-pedido>
+    <numero>68</numero>
+    <valor>21240</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-11-23T17:45:42.853-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>2</produto>
+    <parcelas>2</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=0df676885e323e37cbd44395e39756f0</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-11-26 10:29:58:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="73256766ef89a6712abb0fb2bbc9e7df" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>85</numero>
+      <valor>20100</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-26T10:29:58</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=85</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-26 10:30:00:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="73256766ef89a6712abb0fb2bbc9e7df" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10401172760000361001</tid>
+  <dados-pedido>
+    <numero>85</numero>
+    <valor>20100</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-11-26T08:29:52.945-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=7393eeca4d976ae1021ad7a208678535</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-11-26 10:33:01:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="56fa0b9b4149a40db588583237d8f360" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>86</numero>
+      <valor>20100</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-26T10:33:01</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>A</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=86</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-26 10:33:01:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<erro xmlns="http://ecommerce.cbmp.com.br"><codigo>013</codigo><mensagem>Flag de autorização (3) inválida para Débito.</mensagem></erro>
+
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2012-11-26 10:33:01 (UTC)
+     ARQUIVO: C:\www\opencart\upload\cielo\errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 013
+     Mensagem: Flag de autorização (3) inválida para Débito.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="56fa0b9b4149a40db588583237d8f360" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>86</numero>
+      <valor>20100</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-26T10:33:01</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>A</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=86</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-26 10:33:25:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="64901ae958fc27b834301396cea0e0f8" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>87</numero>
+      <valor>20100</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-26T10:33:25</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=87</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-26 10:33:25:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="64901ae958fc27b834301396cea0e0f8" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10401172760000371001</tid>
+  <dados-pedido>
+    <numero>87</numero>
+    <valor>20100</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-11-26T08:33:17.353-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=03b1a36c21db095a60bdac5cc0e2d49c</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-11-26 10:37:25:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="818f4c7d9f6c3845294a5034e277f8e5" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>88</numero>
+      <valor>12140</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-26T10:37:25</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=88</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-26 10:37:26:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="818f4c7d9f6c3845294a5034e277f8e5" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10401172760000381001</tid>
+  <dados-pedido>
+    <numero>88</numero>
+    <valor>12140</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-11-26T08:37:17.837-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=8b4b89b369e80876ca49ad66ce3107ab</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-11-26 10:38:47:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="6810e3a0002c26605253dd3cd93e5fd9" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>89</numero>
+      <valor>9240</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-26T10:38:47</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>12</produto>
+      <parcelas>12</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=89</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-26 10:38:48:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<erro xmlns="http://ecommerce.cbmp.com.br"><codigo>001</codigo><mensagem><![CDATA[
+O XML informado não é valido:
+- string value '12' does not match pattern for type of produto element in FormaPagamento in namespace http://ecommerce.cbmp.com.br: '<xml-fragment/>'
+]]></mensagem></erro>
+
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2012-11-26 10:38:48 (UTC)
+     ARQUIVO: C:\www\opencart\upload\cielo\errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 001
+     Mensagem: 
+O XML informado não é valido:
+- string value '12' does not match pattern for type of produto element in FormaPagamento in namespace http://ecommerce.cbmp.com.br: '<xml-fragment/>'
+
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="6810e3a0002c26605253dd3cd93e5fd9" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>89</numero>
+      <valor>9240</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-26T10:38:47</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>12</produto>
+      <parcelas>12</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=89</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-26 10:39:09:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="a5983f31b783743df71f2d15433e3f47" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>90</numero>
+      <valor>9240</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-26T10:39:09</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=90</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-26 10:39:10:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="a5983f31b783743df71f2d15433e3f47" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10401172760000392002</tid>
+  <dados-pedido>
+    <numero>90</numero>
+    <valor>9240</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-11-26T08:39:01.405-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>mastercard</bandeira>
+    <produto>2</produto>
+    <parcelas>2</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=27b022433f98d128b29328241ed5ac6b</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-11-26 10:41:01:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="51fc21742524d85a6acc32f016185f01" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>91</numero>
+      <valor>11320</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-26T10:41:01</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=91</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-26 10:41:01:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="51fc21742524d85a6acc32f016185f01" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>104011727600003A1001</tid>
+  <dados-pedido>
+    <numero>91</numero>
+    <valor>11320</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-11-26T08:40:52.414-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=52f45ea914a34ff651a28d3fca492ed5</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-11-26 11:04:59:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="8b3ec3affc99f5e68b096d693104db3b" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>93</numero>
+      <valor>20000</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-11-26T11:04:59</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/opencart/upload/index.php?route=payment/cielo/retorno/?compra=93</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-11-26 11:05:01:000000 (UTC)
+DO ARQUIVO: /opencart/upload/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="8b3ec3affc99f5e68b096d693104db3b" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>104011727600003B1001</tid>
+  <dados-pedido>
+    <numero>93</numero>
+    <valor>20000</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-11-26T09:04:49.390-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=c472dfe4a05f9f4d23f0c1e553551e7c</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-12-11 17:33:58:000000 (UTC)
+DO ARQUIVO: /loja/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="aebc5f82e45430d8e768c701501d52ae" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>113</numero>
+      <valor>97890</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-11T17:33:58</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/loja/index.php?route=payment/cielo/retorno/?compra=113</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-12-11 17:34:00:000000 (UTC)
+DO ARQUIVO: /loja/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="aebc5f82e45430d8e768c701501d52ae" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10401172760000502002</tid>
+  <dados-pedido>
+    <numero>113</numero>
+    <valor>97890</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-12-11T15:33:48.987-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>2</produto>
+    <parcelas>2</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=1b0f36d6fb2e2e534a1c7d78d7ce3b4b</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-12-17 14:43:14:000000 (UTC)
+DO ARQUIVO: /shoppingdosenxovais/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="ab8392c0c738cea508690a3d1317ea5c" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>132</numero>
+      <valor>301240</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-17T14:43:14</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/shoppingdosenxovais/index.php?route=payment/cielo/retorno/?compra=132</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-12-17 14:43:16:000000 (UTC)
+DO ARQUIVO: /shoppingdosenxovais/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="ab8392c0c738cea508690a3d1317ea5c" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10401172760000511001</tid>
+  <dados-pedido>
+    <numero>132</numero>
+    <valor>301240</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-12-17T12:42:45.718-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=b7ef8d6d0b8be65878d1b3ca134e2882</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2012-12-17 15:07:51:000000 (UTC)
+DO ARQUIVO: /shoppingdosenxovais/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="a33a6942e839a92f33b975e4e6299864" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>133</numero>
+      <valor>177863</valor>
+      <moeda>986</moeda>
+      <data-hora>2012-12-17T15:07:51</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://localhost/shoppingdosenxovais/index.php?route=payment/cielo/retorno/?compra=133</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2012-12-17 15:07:52:000000 (UTC)
+DO ARQUIVO: /shoppingdosenxovais/index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="a33a6942e839a92f33b975e4e6299864" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10401172760000522002</tid>
+  <dados-pedido>
+    <numero>133</numero>
+    <valor>177863</valor>
+    <moeda>986</moeda>
+    <data-hora>2012-12-17T13:07:22.394-02:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>2</produto>
+    <parcelas>2</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=135d73e83e6ec0538a5b4a6937ba3dc0</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2013-01-16 10:29:58:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="92a25797f5a376fccf1040cbada67f17" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>135</numero>
+      <valor>1500</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-01-16T10:29:58</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://newdecy.com.br/index.php?route=payment/cielo/retorno/?compra=135</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-01-16 10:29:59:000000 (UTC)
+DO ARQUIVO: /index.php?route=payment/cielo/transacao/
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<erro xmlns="http://ecommerce.cbmp.com.br"><codigo>010</codigo><mensagem>O envio do cartão é obrigatório.</mensagem></erro>
+
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-01-16 10:29:59 (UTC)
+     ARQUIVO: /home/newdecy/public_html/cielo/errorHandling.php(Linha 64)
+     MENSAGEM: 
+     Código do erro: 010
+     Mensagem: O envio do cartão é obrigatório.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="92a25797f5a376fccf1040cbada67f17" versao="1.1.0">
+   <dados-ec>
+      <numero>1040117276</numero>
+      <chave>c71eeb8f45d52f925095191d784dbb880e0ca6a7e017fc5db380962bf5cf0786</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>135</numero>
+      <valor>1500</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-01-16T10:29:58</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>2</produto>
+      <parcelas>2</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://newdecy.com.br/index.php?route=payment/cielo/retorno/?compra=135</url-retorno>
+   <autorizar>3</autorizar>
+   <capturar>false</capturar>
+</requisicao-transacao>
+

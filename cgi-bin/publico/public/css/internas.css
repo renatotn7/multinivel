@@ -1,0 +1,165 @@
+.internas{
+
+  width:1000px;
+  min-height:300px;
+  margin:7px auto;
+  padding:10px;
+  background:#f9f9f9;
+
+}
+
+.internas h1{
+  padding:16px;
+  margin:0;
+  font-size:22px;
+  color:#DF850A;
+  padding:2px;
+}
+
+.conteudo{
+
+
+ padding:4px;
+
+ margin:0;
+
+ position:relative;
+
+}
+
+#galeria{
+
+ width:674px;
+
+ min-height:100px;
+
+ margin:0; 	
+
+}
+
+
+
+#foto{
+
+ width:150px;
+
+ height:100px;
+
+ float:left;
+
+ padding:1px;
+
+ margin:8px 8px 0 4px;	
+
+ border:1px solid #fff;
+
+}
+
+
+
+#produto{
+
+ width:665px;
+
+ height:200px;
+
+ padding:5px;
+
+ border-bottom:1px solid #F9C021; 
+
+}
+
+
+
+#foto-produto{
+
+ width:270px;
+
+ height:180px;
+
+ border:1px solid #fff;
+
+ margin:0 5px 0 0;
+
+ float:left; 	
+
+}
+
+
+
+#foto-download{
+
+ width:206px;
+
+ height:230px;
+
+ border:1px solid #fff;
+
+ margin:0 5px 0 0;
+
+ float:left; 	
+
+}
+
+
+
+#span{
+
+ width:376px;
+
+ height:180px;
+
+ color:#fff;
+
+ display:block;	
+
+}
+
+
+
+#spandw{
+
+ width:376px;
+
+ min-height:91px;
+
+ color:#666;
+
+ font-size:15px !important;
+
+ display:block;
+
+ margin:10px 0 0 0;
+
+ position:relative;	
+
+}
+
+
+
+.link-download{
+
+  float:right;
+
+  margin:0 5px 2px 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

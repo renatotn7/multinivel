@@ -1,0 +1,61 @@
+ul.nav li.dropdown:hover ul.dropdown-menu{
+    display: block;    
+}
+.megamenu .menu-icon{
+	background-position:center center;
+	padding-left:23px;
+	display:block;
+}
+	.megamenu .menu-title{
+		display:block
+	}	
+	.megamenu .menu-desc{
+		display:block;
+		font-size:11px
+	}
+.megamenu  .menu-content{
+	padding:9px
+}
+
+.megamenu .caret{
+	position:absolute;
+	top:30%;
+	right:1px;
+}
+.megamenu .level1 .caret{
+	display:none;
+}
+
+
+.megamenu ul{
+	margin:0;
+	padding:0
+}
+.megamenu ul li{
+	list-style:none;
+}
+.dropdown-submenu > a:after {
+ 
+    margin-right: -10px;
+    margin-top: -22px;
+}
+.megamenu .mega-col{
+
+}
+.megamenu .cols1{
+
+}
+.megamenu .cols2{
+	min-width:400px;
+}
+.megamenu .cols3{
+	min-width:600px;
+}
+.fullwidth {
+
+}
+
+.megamenu .mega-group  > a .menu-title {
+	font-weight:bold;
+	text-decoration:uppercase;
+}

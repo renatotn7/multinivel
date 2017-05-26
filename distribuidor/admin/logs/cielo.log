@@ -1,0 +1,540 @@
+***********************************************
+2013-05-27 16:10:10:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=689&bandeira=mastercard&parcelas=1
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="530d9bcbde1cbe8502510ee3efaeea25" versao="1.1.0">
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>689</numero>
+      <valor>913</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-05-27T16:10:10</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://ronildosouza/vipdistribuidor/index.php/cielo/retorno?c=689</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>true</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-05-27 16:10:11:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=689&bandeira=mastercard&parcelas=1
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<erro xmlns="http://ecommerce.cbmp.com.br"><codigo>002</codigo><mensagem>Credenciais inválidas.</mensagem></erro>
+
+
+**********************************************************
+256 ERRO NA TRANSACAO - 2013-05-27 16:10:11 (BRT)
+     ARQUIVO: C:\www\vipdistribuidor\admin\libraries\cielo\errorHandling.php(Linha 127)
+     MENSAGEM: 
+     Código do erro: 002
+     Mensagem: Credenciais inválidas.
+     XML de envio: 
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="530d9bcbde1cbe8502510ee3efaeea25" versao="1.1.0">
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>689</numero>
+      <valor>913</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-05-27T16:10:10</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://ronildosouza/vipdistribuidor/index.php/cielo/retorno?c=689</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>true</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-05-27 16:14:13:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=689&bandeira=mastercard&parcelas=1
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="f9d7294219dad2ec9d5a5e4f529ddd09" versao="1.1.0">
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>689</numero>
+      <valor>913</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-05-27T16:14:13</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>mastercard</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://ronildosouza/vipdistribuidor/index.php/cielo/retorno?c=689</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>true</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-05-27 16:14:14:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=689&bandeira=mastercard&parcelas=1
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="f9d7294219dad2ec9d5a5e4f529ddd09" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10443939010000021001</tid>
+  <dados-pedido>
+    <numero>689</numero>
+    <valor>913</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-05-27T16:13:33.468-03:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>mastercard</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=69299c4aff9d0ccaa9248076d65bfdf6</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2013-05-27 16:14:20:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/retorno?c=689
+OPERAÇÃO: Consulta
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-consulta id="8f412fe913efd315cf27ab88a6d3366e" versao="1.1.0">
+   <tid>10443939010000021001</tid>
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+</requisicao-consulta>
+
+***********************************************
+2013-05-27 16:14:21:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/retorno?c=689
+OPERAÇÃO: Consulta
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="8f412fe913efd315cf27ab88a6d3366e" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10443939010000021001</tid>
+  <dados-pedido>
+    <numero>689</numero>
+    <valor>913</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-05-27T16:13:33.468-03:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>mastercard</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>9</status>
+  <cancelamento>
+    <codigo>9</codigo>
+    <mensagem>Cancelamento solicitado pelo usuario</mensagem>
+    <data-hora>2013-05-27T16:13:39.924-03:00</data-hora>
+    <valor>913</valor>
+  </cancelamento>
+</transacao>
+
+
+[27-May-2013 16:14:21 America/Sao_Paulo] PHP Fatal error:  Call to undefined function status_transacao() in C:\www\vipdistribuidor\admin\controllers\cielo.php on line 147
+***********************************************
+2013-05-27 16:16:27:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/retorno?c=689
+OPERAÇÃO: Consulta
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-consulta id="1c94b92e4ec4fb220e6c5ed6bb2bfc40" versao="1.1.0">
+   <tid>10443939010000021001</tid>
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+</requisicao-consulta>
+
+***********************************************
+2013-05-27 16:16:27:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/retorno?c=689
+OPERAÇÃO: Consulta
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="1c94b92e4ec4fb220e6c5ed6bb2bfc40" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10443939010000021001</tid>
+  <dados-pedido>
+    <numero>689</numero>
+    <valor>913</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-05-27T16:13:33.468-03:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>mastercard</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>9</status>
+  <cancelamento>
+    <codigo>9</codigo>
+    <mensagem>Cancelamento solicitado pelo usuario</mensagem>
+    <data-hora>2013-05-27T16:13:39.924-03:00</data-hora>
+    <valor>913</valor>
+  </cancelamento>
+</transacao>
+
+
+***********************************************
+2013-05-27 16:20:45:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/retorno?c=689
+OPERAÇÃO: Consulta
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-consulta id="0346f2d9b087d8d6535e676285a3b7df" versao="1.1.0">
+   <tid>10443939010000021001</tid>
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+</requisicao-consulta>
+
+***********************************************
+2013-05-27 16:20:46:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/retorno?c=689
+OPERAÇÃO: Consulta
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="0346f2d9b087d8d6535e676285a3b7df" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10443939010000021001</tid>
+  <dados-pedido>
+    <numero>689</numero>
+    <valor>913</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-05-27T16:13:33.468-03:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>mastercard</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>9</status>
+  <cancelamento>
+    <codigo>9</codigo>
+    <mensagem>Cancelamento solicitado pelo usuario</mensagem>
+    <data-hora>2013-05-27T16:13:39.924-03:00</data-hora>
+    <valor>913</valor>
+  </cancelamento>
+</transacao>
+
+
+***********************************************
+2013-05-27 16:28:39:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=690&bandeira=visa&parcelas=1
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="7d72cda02f1000a6a9a893b70fc8b07c" versao="1.1.0">
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>690</numero>
+      <valor>1308</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-05-27T16:28:39</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://ronildosouza/vipdistribuidor/index.php/cielo/retorno?c=690</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>true</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-05-27 16:28:40:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=690&bandeira=visa&parcelas=1
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="7d72cda02f1000a6a9a893b70fc8b07c" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10443939010000031001</tid>
+  <dados-pedido>
+    <numero>690</numero>
+    <valor>1308</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-05-27T16:27:59.286-03:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=55ab87cde9108b1a61a52a741f9e36c3</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2013-05-27 16:29:50:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=690&bandeira=visa&parcelas=1
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="2e8c141e91bf2fb7e05e68d5c28ddfb0" versao="1.1.0">
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>690</numero>
+      <valor>1308</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-05-27T16:29:50</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://ronildosouza/vipdistribuidor/index.php/cielo/retorno?c=690</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>true</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-05-27 16:29:50:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=690&bandeira=visa&parcelas=1
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="2e8c141e91bf2fb7e05e68d5c28ddfb0" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10443939010000041001</tid>
+  <dados-pedido>
+    <numero>690</numero>
+    <valor>1308</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-05-27T16:29:09.618-03:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=28f49767898e32ae9f8ab325fcc6890d</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2013-05-27 16:30:35:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=690&bandeira=visa&parcelas=1
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="4aa5f79d46826eaa247d6238fe88ff97" versao="1.1.0">
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>690</numero>
+      <valor>1308</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-05-27T16:30:35</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://ronildosouza/vipdistribuidor/index.php/cielo/retorno?c=690</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>true</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-05-27 16:30:35:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=690&bandeira=visa&parcelas=1
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="4aa5f79d46826eaa247d6238fe88ff97" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10443939010000051001</tid>
+  <dados-pedido>
+    <numero>690</numero>
+    <valor>1308</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-05-27T16:29:54.869-03:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=b2b2d277bc9923661cee98956e990d09</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2013-05-27 16:32:23:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=690&bandeira=visa&parcelas=1
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="0ef0042af1ab1c1677979c8f9f262b5f" versao="1.1.0">
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>690</numero>
+      <valor>13080</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-05-27T16:32:23</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://ronildosouza/vipdistribuidor/index.php/cielo/retorno?c=690</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>true</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-05-27 16:32:23:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=690&bandeira=visa&parcelas=1
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="0ef0042af1ab1c1677979c8f9f262b5f" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10443939010000061001</tid>
+  <dados-pedido>
+    <numero>690</numero>
+    <valor>13080</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-05-27T16:31:42.581-03:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=5f78a59b202ba6d5206cbf586909f93a</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2013-05-27 16:32:53:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=690&bandeira=visa&parcelas=1
+OPERAÇÃO: Transacao
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-transacao id="c6a6141880cae30c1111ff66d551aec7" versao="1.1.0">
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+   <dados-pedido>
+      <numero>690</numero>
+      <valor>13080</valor>
+      <moeda>986</moeda>
+      <data-hora>2013-05-27T16:32:53</data-hora>
+      <idioma>PT</idioma>
+   </dados-pedido>
+   <forma-pagamento>
+      <bandeira>visa</bandeira>
+      <produto>1</produto>
+      <parcelas>1</parcelas>
+   </forma-pagamento>
+   <url-retorno>http://ronildosouza/vipdistribuidor/index.php/cielo/retorno?c=690</url-retorno>
+   <autorizar>2</autorizar>
+   <capturar>true</capturar>
+</requisicao-transacao>
+
+***********************************************
+2013-05-27 16:32:54:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/transacao?c=690&bandeira=visa&parcelas=1
+OPERAÇÃO: Transacao
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="c6a6141880cae30c1111ff66d551aec7" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10443939010000071001</tid>
+  <dados-pedido>
+    <numero>690</numero>
+    <valor>13080</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-05-27T16:32:13.312-03:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>0</status>
+  <url-autenticacao>https://ecommerce.cielo.com.br/web/index.cbmp?id=5823d8efd956b5bb54ed6e17e02b2cf2</url-autenticacao>
+</transacao>
+
+
+***********************************************
+2013-05-27 16:32:58:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/retorno?c=690
+OPERAÇÃO: Consulta
+ENVIO: <?xml version="1.0" encoding="ISO-8859-1" ?>
+<requisicao-consulta id="f02ed35918b95ebf00ea6c2fe68654d1" versao="1.1.0">
+   <tid>10443939010000071001</tid>
+   <dados-ec>
+      <numero>1044393901</numero>
+      <chave>525a24934cdbe6fafe1001c652dad16fd98a7d630041a29e9e8551b5c00e8dc6</chave>
+   </dados-ec>
+</requisicao-consulta>
+
+***********************************************
+2013-05-27 16:32:59:000000 (BRT)
+DO ARQUIVO: /vipdistribuidor/index.php/cielo/retorno?c=690
+OPERAÇÃO: Consulta
+RESPOSTA: <?xml version="1.0" encoding="ISO-8859-1"?>
+<transacao versao="1.1.0" id="f02ed35918b95ebf00ea6c2fe68654d1" xmlns="http://ecommerce.cbmp.com.br">
+  <tid>10443939010000071001</tid>
+  <dados-pedido>
+    <numero>690</numero>
+    <valor>13080</valor>
+    <moeda>986</moeda>
+    <data-hora>2013-05-27T16:32:13.312-03:00</data-hora>
+    <idioma>PT</idioma>
+  </dados-pedido>
+  <forma-pagamento>
+    <bandeira>visa</bandeira>
+    <produto>1</produto>
+    <parcelas>1</parcelas>
+  </forma-pagamento>
+  <status>9</status>
+  <cancelamento>
+    <codigo>9</codigo>
+    <mensagem>Cancelamento solicitado pelo usuario</mensagem>
+    <data-hora>2013-05-27T16:32:17.846-03:00</data-hora>
+    <valor>13080</valor>
+  </cancelamento>
+</transacao>
+
+

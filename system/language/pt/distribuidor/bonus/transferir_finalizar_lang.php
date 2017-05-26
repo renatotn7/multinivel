@@ -1,0 +1,21 @@
+<?php
+$lang ['erro_transacao_saldo_insuficiente'] = "Erro na transação, saldo insuficiente!";
+$lang ['transferencia_bonus'] = "Transferencia de bônus de";
+$lang ['transferencia_bonus_para'] = "Transferencia de bônus para";
+$lang ['erro_transacao_tente_novamente'] = "Erro na transação, tente novamente!";
+$lang ['bonus_transferido_sucesso'] = "Bônus transferido com sucesso!";
+$lang ['transferencia_bonus_para_cd'] = "Transferencia de bônus para CD";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";
+$lang ['___________________'] = "___________________";

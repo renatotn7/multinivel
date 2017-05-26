@@ -1,0 +1,203 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: arial;	
+}
+
+.body {
+	width: 100%;
+	max-width: 1800px;
+	margin: 0 auto;
+	position: relative;
+	
+}
+
+#conteudo-login {
+	width: 100%;
+	margin:0 auto;
+	height: 100%;
+	position: relative;	
+}
+
+#imagem-fundo {
+	width: 100%;
+	height: 100%;
+}
+
+.corpo {
+	max-width: 1280px;
+	min-height: 700px;
+	margin: 0 auto;
+}
+.header {
+	height: 155px;
+}
+.box-content {
+	font-size: 13px;
+}
+.box-content-header {
+	font-size: 19px;
+	padding: 0px 10px;
+	padding-bottom: 16px;
+	font-weight: bold;
+	color: #EA3755;
+}
+.box-content-body {
+	border: 1px solid #ccc;
+	padding: 10px;
+	background:#fff;
+}
+.border-radios {
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	-khtml-border-radius: 9px;
+	border-radius: 9px;
+}
+.login {
+
+}
+#form_id_login {
+    margin:0 auto;
+	width: 336px;
+	height: 100%;
+}
+#imagem_lateral {
+	background: url(../imagem/layout/chamado.png) right no-repeat;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 50%;
+	z-index: 10;
+	height: 100%;
+}
+.bar_cadastro {
+	background: #DF3C40;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 80%;
+	text-align: center;
+	padding: 20px 0;
+}
+
+#conteudo-login {
+	width: 1000px;
+	height: 100%;
+	position: relative;
+	margin:0 auto;
+}
+
+#imagem-fundo {
+	width: 100%;
+	height: 100%;
+}
+
+#form-login {
+	width: 373px;
+	height: 409px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+#chamada-voe-mais-alto {
+	width: 228px;
+	height: 55px;
+	margin: 0 auto;
+	display: block;
+	background: url(../imagem/layout/voe-mais-alto.png) center no-repeat;
+}
+
+#form-login input[type='text'], #form-login input[type='password'] {
+	border: 1px solid #999;
+	background: #FBFAF4;
+	color: #666;
+	font-size: 12px;
+	font-family: arial;
+	padding: 7px !important;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	margin: 0 0 0 31px;
+}
+#aguia {
+	width: 640px;
+	height: 222px;
+	position: absolute;
+	top: 53px;
+	right: -596px;
+	background: url(../imagem/layout/aguia.png) center no-repeat;
+}
+.input-login {
+	width: 280px;
+	margin:0 auto;
+	text-align: left;
+	font-size: 14px;
+	color: #9A9A8C;
+	background:url(../imagem/layout/bg_input_login.png) center no-repeat !important;
+	border:none !important;
+	outline:none !important;
+	height:37px !important;
+}
+
+#ouro{
+ position:absolute;
+ top:640px;
+ right:-30px;
+}
+
+#esqueceu-senha {
+	color: #39342A;
+	font-size: 13px;
+	font-family: arial;
+	margin-left:55px;
+	font-style:italic;
+}
+.bt-entrar {
+	width: 100%;
+	display: block;
+	background: url(../imagem/layout/entrar.png) center no-repeat;
+}
+#form-login label {
+	font-size: 15px;
+	font-weight: bold;
+	font-family: arial;
+	color: #000;
+	display: block;
+	text-align:left;
+	width:288px;
+	margin:5px auto;
+}
+.combo-box {
+	background: url(../imagem/combo-box.png) no-repeat;
+	width: 333px;
+	height: 294px;
+	position: relative;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.combo-box-numero {
+	background: url(../imagem/combo-box-numero.png) no-repeat;
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 8px 19px;
+	color: #FFF;
+}
+.combo-box-selects {
+	width: 294px;
+	height: 225px;
+	padding: 10px;
+	overflow: auto;
+}
+#imagem-aguia {
+	position: absolute;
+	top: 13px;
+	right: -128px;
+}
+.well{
+   background-color: #FFF !important;
+}
+
